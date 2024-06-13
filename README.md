@@ -7,13 +7,22 @@ Hi! This project is a classic for learning, a basic project "ToDo" .<br>
 ## Install and run
 
 Clone this repository:<br>
-  `> git clone https://github.com/AR097/QRcodeGenerator.git`<br><br>
-React directory:<br>
-  `> npm install`<br><br>
-Install the library:<br>
-  `npm install qrcode.react`<br><br>
+```
+git clone https://github.com/AR097/todoapp.git
+```
+
+Install the dependencies:<br>
+```
+flutter create .
+```
+
 Start the progrmam:<br>
-  `> npm start`<br><br>
+```
+flutter run
+```
+Select the device that will run the app:<br>
+Ex:.<br>
+![image](https://github.com/AR097/todoapp/assets/107823438/d6da3771-0ae2-4429-bf05-573cfbcbda35)
 
 ## Getting Started
 
