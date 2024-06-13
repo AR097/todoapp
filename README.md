@@ -2,18 +2,18 @@
 
 Hi! This project is a classic for learning, a basic project "ToDo" .<br>
 
-
 <img src="https://github.com/AR097/todoapp/blob/main/ToDo.gif"/>
 
-## Getting to know the APP
-- The home interface<br>
-<img width="200" src="https://github.com/AR097/todoapp/assets/107823438/89379bf4-325c-474f-b281-cfeb6406e106"/><br>
-- Created a New Task<br>
-<img width="250" src="https://github.com/AR097/todoapp/assets/107823438/a015f2a7-4cd6-494c-b85b-ac10038eb8f1"/><br>
-- Interface with a item in list<br>
-<img width="200" src="https://github.com/AR097/todoapp/assets/107823438/9e42b21e-4f78-4b4b-b80f-32f065653590"/><br>
-- Editing a Task<br>
-<img width="250" src="https://github.com/AR097/todoapp/assets/107823438/7139052b-d619-4db4-a137-6f8f536179f8"/><br>
+## Install and run
+
+Clone this repository:<br>
+  `> git clone https://github.com/AR097/QRcodeGenerator.git`<br><br>
+React directory:<br>
+  `> npm install`<br><br>
+Install the library:<br>
+  `npm install qrcode.react`<br><br>
+Start the progrmam:<br>
+  `> npm start`<br><br>
 
 ## Getting Started
 
